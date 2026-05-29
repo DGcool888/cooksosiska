@@ -18,6 +18,7 @@ href="style1.css">
 <img src="https://valeotrikotage.com/assets/cache/images/3e2999b1596e492c6ee54eee17325ea3.jpg" width="200" height="200">
 <h2>Ботинки</h2>
 <img src="https://images.prom.ua/4173434859_w640_h320_bordovye-zamshevye-botinki.jpg" width="200" height="200">
+  </body>
 </header>
 <br>
 <br>

@@ -2,22 +2,22 @@
 <html>
 <link rel="stylesheet"
 href="style.css">
-<body style="background-color:blue"> <h1> <p>Як ви хочете бачити рецепт?
-<a href="#text">в текстовому форматі</a> <a href="#table">як таблиця</a> <a href="#mytable">моя кулінарна таблиця</a></p></h1>
+<body style="background-color:blue"> <h1> <p>Наш асортимент
+<a href="#text">Шківльне взуття</a> <a href="#table">Взуття на літо</a> <a href="#mytable">Зробити своє побажання</a></p></h1>
 </body>
 <header id="text">
-<h1 class="video">Як приготувати сосиску?</h1>
-<h2>Вскипятіть воду</h2>
-<h3>Візьміть кастрюлю</h3>
-<h3>Налийте воду</h3>
-<h3>Поставте кастрюлю на плиту</h3>
-<h3>Увімніть плиту</h3>
-<h3>Почекайте трішки</h3>
-<h2>Киньте сосиску</h2>
-<h3>НЕ ОБІЖГІТЬСЯ!</h3>
-<h3>ще трішки почекайте</h3>
-<h2>Можна їсти</h2>
-<h3>ам ням</h3>
+<h1 class="video">Шкільне взуття</h1>
+<h2>Туфлі</h2>
+<img src="https://content2.rozetka.com.ua/goods/images/big/405178259.jpg" width="20" height="20">
+<img src="https://botik.dp.ua/_next/image?url=%2Fuploads%2F118886_2bf0495472.jpg&w=1536&q=85" width="20" height="20">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFVY6nlY1zSpuRNutAjOiYZOYrtZIX1xgXQ&s" width="20" height="20">
+<img src="https://content.rozetka.com.ua/goods/images/big/405178260.jpg" width="20" height="20">
+<img src="https://crosskidss.com.ua/image/cache/catalog/IMG_20230420_222251%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-800x800.jpg" width="20" height="20">
+<h2>Кросівки</h2>
+<img src="https://chopin.com.ua/imgs/mg115391.jpg" width="20" height="20">
+<img src="https://valeotrikotage.com/assets/cache/images/3e2999b1596e492c6ee54eee17325ea3.jpg" width="20" height="20">
+<h2>Ботинки</h2>
+<img src="https://images.prom.ua/4173434859_w640_h320_bordovye-zamshevye-botinki.jpg" width="20" height="20">
 </header>
 <br>
 <br>
@@ -28,16 +28,16 @@ href="style.css">
 <main id="table">
 <table>
 <tr>
-<td>Сосиска<img src="https://thumbs.dreamstime.com/z/%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA-emoji-%D1%81%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0-%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BB-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0-145038720.jpg" width="20" height="20"></td>
-<td>Час приготування<img src="https://w1.pngwing.com/pngs/575/897/png-transparent-line-emoji-clock-emoticon-watch-online-chat-symbol-text-messaging-alarm-clocks-thumbnail.png" width="20" height="20"></td>
+<td>Замовити взуття<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiTZMSMDFbzVS4pIXztbtYxgr9RLp5gh7gg&s" width="20" height="20"></td>
+<td>Час доставки<img src="https://w1.pngwing.com/pngs/575/897/png-transparent-line-emoji-clock-emoticon-watch-online-chat-symbol-text-messaging-alarm-clocks-thumbnail.png" width="20" height="20"></td>
 </tr>
 <tr>
-<td>Молочна</td>
-<td>3 хв</td>
+<td>це можна зробити нище</td>
+<td>5 днів</td>
 </tr>
 <tr>
-<td class="video" colspan="2">відео урок
-<a href="https://www.youtube.com/watch?v=1m8dXIZLYEA"><img src="https://images.aif.by/007/616/184bf8294380a97f8fa3b06551e3c79c.jpg"></a>
+<td class="video" colspan="2">Про нас
+<a href="https://youtu.be/SdBEhJenDWc?si=WVHAOHdoj4vZizc4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTPoszPQaNXQsRHlsyqVXxhQ9e8RhOn3uJzw&s"></a>
 </td>
 </tr>
 </table>
@@ -50,6 +50,11 @@ href="style.css">
 </main>
 <footer id="mytable">
 <table>
+<tr>
+<td>Розмір взуття</td>
+<td>Вид взуття</td>
+<td>Інше</td>
+</tr>
 <tr>
 <td><input width="90" value=""></td>
 <td><input width="90" value=""></td>

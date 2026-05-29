@@ -8,16 +8,16 @@ href="style1.css">
 <header id="text">
 <h1 class="video">Шкільне взуття</h1>
 <h2>Туфлі</h2>
-<img src="https://content2.rozetka.com.ua/goods/images/big/405178259.jpg" width="100" height="100">
-<img src="https://botik.dp.ua/_next/image?url=%2Fuploads%2F118886_2bf0495472.jpg&w=1536&q=85" width="100" height="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFVY6nlY1zSpuRNutAjOiYZOYrtZIX1xgXQ&s" width="100" height="100">
-<img src="https://content.rozetka.com.ua/goods/images/big/405178260.jpg" width="100" height="100">
-<img src="https://crosskidss.com.ua/image/cache/catalog/IMG_20230420_222251%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-800x800.jpg" width="100" height="100">
+<img src="https://content2.rozetka.com.ua/goods/images/big/405178259.jpg" width="200" height="200">
+<img src="https://botik.dp.ua/_next/image?url=%2Fuploads%2F118886_2bf0495472.jpg&w=1536&q=85" width="200" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFVY6nlY1zSpuRNutAjOiYZOYrtZIX1xgXQ&s" width="200" height="200">
+<img src="https://content.rozetka.com.ua/goods/images/big/405178260.jpg" width="200" height="200">
+<img src="https://crosskidss.com.ua/image/cache/catalog/IMG_20230420_222251%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-800x800.jpg" width="200" height="200">
 <h2>Кросівки</h2>
-<img src="https://chopin.com.ua/imgs/mg115391.jpg" width="100" height="100">
-<img src="https://valeotrikotage.com/assets/cache/images/3e2999b1596e492c6ee54eee17325ea3.jpg" width="100" height="100">
+<img src="https://chopin.com.ua/imgs/mg115391.jpg" width="200" height="200">
+<img src="https://valeotrikotage.com/assets/cache/images/3e2999b1596e492c6ee54eee17325ea3.jpg" width="200" height="200">
 <h2>Ботинки</h2>
-<img src="https://images.prom.ua/4173434859_w640_h320_bordovye-zamshevye-botinki.jpg" width="100" height="100">
+<img src="https://images.prom.ua/4173434859_w640_h320_bordovye-zamshevye-botinki.jpg" width="200" height="200">
 </header>
 <br>
 <br>

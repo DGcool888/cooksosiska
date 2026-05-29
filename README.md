@@ -3,7 +3,7 @@
 <link rel="stylesheet"
 href="style1.css">
 <body style="background-color:blue"> <h1> <p>Наш асортимент
-<a href="#text">Шківльне взуття</a> <a href="#table">Взуття на літо</a> <a href="#mytable">Зробити своє побажання</a></p></h1>
+<a href="#text">Шкільне взуття</a> <a href="#table">Взуття на літо</a> <a href="#mytable">Зробити своє побажання</a></p></h1>
 <header id="text">
 <h1 class="video">Шкільне взуття</h1>
  </body>

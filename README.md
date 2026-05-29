@@ -6,7 +6,7 @@ href="style1.css">
 <a href="#text">Шківльне взуття</a> <a href="#table">Взуття на літо</a> <a href="#mytable">Зробити своє побажання</a></p></h1>
 <header id="text">
 <h1 class="video">Шкільне взуття</h1>
-</body>
+ </body>
 <h2>Туфлі</h2>
 <img src="https://content2.rozetka.com.ua/goods/images/big/405178259.jpg" width="200" height="200">
 <img src="https://botik.dp.ua/_next/image?url=%2Fuploads%2F118886_2bf0495472.jpg&w=1536&q=85" width="200" height="200">
@@ -72,4 +72,4 @@ href="style1.css">
 </tr>
 </table>
 </footer>
-</html>
+ </html>

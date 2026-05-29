@@ -1,7 +1,7 @@
 
 <html>
 <link rel="stylesheet"
-href="style.css">
+href="style1.css">
 <body style="background-color:blue"> <h1> <p>Наш асортимент
 <a href="#text">Шківльне взуття</a> <a href="#table">Взуття на літо</a> <a href="#mytable">Зробити своє побажання</a></p></h1>
 </body>

@@ -1,0 +1,54 @@
+td {
+    background-color: peru;
+    border: 1px solid white;
+    }
+    
+    input {
+    background-color: peru;
+    color: white;
+    }
+    
+    html {
+    background-color: blue;
+    }
+    
+    h1 {
+    color: red;
+    text-align: center;
+    }
+    
+    .video {
+    background-color: white;
+    color:black;
+    border-radius: 10px;
+    }
+    
+     body h1{
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: black;
+    }
+    
+    body a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: pink;
+    margin: 2px;
+    padding: 3px;
+    font-size: 20;
+    }
+    
+    h2 {
+        background-color: white;
+        color: black;
+    }
+
+    h3 {
+        background-color: pink;
+        color: white;
+        border: 1px solid pink;
+        border-radius: 10px;
+        margin: 5px;
+    }
